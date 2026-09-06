@@ -1,0 +1,6 @@
+{
+  "name": "글자 수 및 맞춤법 검사기",
+  "description": "실시간 글자 수 세기와 자주 틀리는 한국어 맞춤법 간편 교정 및 통계 도구",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
